@@ -1,0 +1,11 @@
+This document contains codes commented out or taken away from a component of javascript document 
+in order to test out for other things
+
+
+  The code below was taken from AudioListItem.js and is responsible for handling the three vertical dots 
+  on the right 
+  <View style={styles.rightContainer}>
+                <Entypo onPress={onOptionPress}
+                name="dots-three-vertical" size={24} color='black'/>
+            </View>
+            
